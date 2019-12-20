@@ -22,7 +22,7 @@
 #include <stdlib.h>
 #include <stdint.h>
 #include <getopt.h>
-#include <uchar.h>
+#include <unicode/uchar.h>
 #include <wchar.h>
 #include <string.h>
 #include <cassert>
